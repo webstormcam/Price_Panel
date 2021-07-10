@@ -64,6 +64,11 @@ border-bottom-right-radius: 5%;
      
     }
 
+    .card{
+        max-width: 700px;
+     
+    }
+
     .card1{
         border-top-left-radius: 5%;
         border-top-right-radius: 0%;
