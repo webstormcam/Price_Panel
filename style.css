@@ -69,6 +69,10 @@ border-bottom-right-radius: 5%;
      
     }
 
+    .imgs{
+        width: 60%;
+    }
+
     .card1{
         border-top-left-radius: 5%;
         border-top-right-radius: 0%;
