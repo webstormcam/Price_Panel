@@ -4,6 +4,7 @@
 
 html{
     font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body{
@@ -49,8 +50,36 @@ border-bottom-right-radius: 5%;
     text-decoration: none;
     display: inline-block;
     padding: 15px 30px;
-    border: 1px solid blue;
+    border: 1px solid#0077b6;
     border-radius: 5%;
+    color: #0077b6;
+    transition: 0.5s;
+}
+
+.button:hover{
+ color: #fff;
+ background-color: #0077b6;
+}
+
+.grey{
+    color: #808080;
+    margin-bottom: 40px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.small_blue{
+    color: #0077b6;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+
+.big_blue{
+    color: #0077b6;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
 }
 
 @media (min-width:1440px){
