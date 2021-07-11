@@ -49,7 +49,7 @@ border-bottom-right-radius: 5%;
     color: black;
     text-decoration: none;
     display: inline-block;
-    padding: 15px 30px;
+    padding: 10px 30px;
     border: 1px solid#0077b6;
     border-radius: 5%;
     color: #0077b6;
@@ -97,24 +97,28 @@ border-bottom-right-radius: 5%;
     }
 
     .card{
-        max-width: 700px;
+        width: 33%;
+        padding-left: 10px;
+        padding-right:10px ;
      
     }
 
     .imgs{
-        width: 60%;
+        width: 50%;
     }
 
     .card1{
-        border-top-left-radius: 5%;
+        border-top-left-radius: 2%;
         border-top-right-radius: 0%;
-        border-bottom-left-radius: 5%;
+        border-bottom-left-radius: 2%;
         
         }
 
+       
+
         .card3{
             border-bottom-left-radius: 0%;
-            border-bottom-right-radius: 5%;
-            border-top-right-radius: 5%;
+            border-bottom-right-radius: 2%;
+            border-top-right-radius: 2%;
             }
 }
