@@ -53,7 +53,9 @@ border-bottom-right-radius: 5%;
     border: 1px solid#0077b6;
     border-radius: 5%;
     color: #0077b6;
-    transition: 0.5s;
+    font-weight: bold;
+  
+
 }
 
 .button:hover{
@@ -79,7 +81,8 @@ border-bottom-right-radius: 5%;
     color: #0077b6;
     font-weight: bold;
     font-size: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+
 }
 
 @media (min-width:1440px){
